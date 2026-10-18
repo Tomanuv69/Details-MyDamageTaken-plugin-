@@ -1,8 +1,8 @@
-## Interface: 120100
+## Interface: 120105
 ## Title: Details!: My Damage Taken (plugin)
 ## Notes: Shows the damage you have taken in your last combat session, broken down by spell. Select it from the Plugin menu in the Orange Cogwheel.
 ## Author: Tomanuv
-## Version: 2.3
+## Version: 2.4
 ## RequiredDeps: Details
 ## OptionalDeps: Ace3
 ## IconTexture: Interface\AddOns\Details\images\minimap
